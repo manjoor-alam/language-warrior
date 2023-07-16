@@ -1,5 +1,4 @@
 hello manjoor
 i am fine
 
-:wq
-clear
+hello my lovely
